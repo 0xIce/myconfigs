@@ -1,3 +1,4 @@
+brew cask install visual-studio-code
 
 CUR_DIR=$HOME/.config/vscode
 VSCODE_PATH="/Users/""$(whoami)""/Library/Application Support/Code/User"
