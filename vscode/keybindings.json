@@ -166,14 +166,6 @@
         "command": "-code-runner.runCustomCommand"
     },
     {
-        "key": "cmd+enter",
-        "command": "workbench.action.toggleFullScreen"
-    },
-    {
-        "key": "ctrl+cmd+f",
-        "command": "-workbench.action.toggleFullScreen"
-    },
-    {
         "key": "cmd+r cmd+r",
         "command": "code-runner.runByLanguage"
     },

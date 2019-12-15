@@ -3,6 +3,7 @@
 
 # oh-my-zsh
 curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install.sh | bash -s
+git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
 
 cur_dir=$HOME/.config/zsh
