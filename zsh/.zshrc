@@ -99,7 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias pip='pip3'
 alias python='python3'
-alias killautio='sudo killall coreaudiod'
+alias killaudio='sudo killall coreaudiod'
 alias vim=nvim
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
