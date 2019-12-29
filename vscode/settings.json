@@ -2,15 +2,9 @@
     // Gitlens config
     "gitlens.keymap": "none",
     "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": false,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
+        "suppressCommitNotFoundWarning": true,
         "suppressLineUncommittedWarning": true,
-        "suppressNoRepositoryWarning": false,
-        "suppressResultsExplorerNotice": false,
         "suppressShowKeyBindingsNotice": true,
-        "suppressUpdateNotice": false,
         "suppressWelcomeNotice": true
     },
     // Vim Config

@@ -102,4 +102,17 @@ alias python='python3'
 alias killaudio='sudo killall coreaudiod'
 alias vim=nvim
 
+#func
+generateCharlesLicense(){
+    name=""
+    if [ -n "$1" ];then
+        name="$1"
+    else
+        echo "输入用户名"
+        read name
+    fi
+    echo name: $name
+    echo licenseKey: $(curl -s "http://www.charles.ren/api/licenseKey/generate" --data "username=$name" | awk -F: '{ print $3 }' | sed 's/[\"\{\}"]//g')
+}
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
