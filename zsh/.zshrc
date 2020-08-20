@@ -101,6 +101,7 @@ alias pip='pip3'
 alias python='python3'
 alias killaudio='sudo killall coreaudiod'
 alias vim=nvim
+alias typora='open -a typora'
 
 #func
 generateCharlesLicense(){
