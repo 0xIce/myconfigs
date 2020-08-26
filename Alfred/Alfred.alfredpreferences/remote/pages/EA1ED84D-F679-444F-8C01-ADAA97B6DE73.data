@@ -132,21 +132,7 @@
 		<dict/>
 		<dict/>
 		<dict/>
-		<dict>
-			<key>actionconfig</key>
-			<dict>
-				<key>path</key>
-				<string>/</string>
-			</dict>
-			<key>actionuid</key>
-			<string>remote.alfred.launchfile</string>
-			<key>buttoniconid</key>
-			<string>2F322672-05A3-478D-B219-45094C3DEF65</string>
-			<key>buttonlabel</key>
-			<string>Macintosh HD</string>
-			<key>itemuid</key>
-			<string>F8B53372-7AF9-4D2E-B897-E54AE6AB874B</string>
-		</dict>
+		<dict/>
 		<dict>
 			<key>actionconfig</key>
 			<dict>
