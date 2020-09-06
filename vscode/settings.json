@@ -261,7 +261,7 @@
     // Comment
     "better-comments.multilineComments": true,
     "workbench.startupEditor": "newUntitledFile",
-    "dart.flutterSdkPath": "/Users/zxy/dev/code/flutter",
+    "dart.flutterSdkPath": "/Users/mahongqi/Developer/MBox/Toutiao/tt_flutter_module/.flutterw/cache/dist/engine",
     "leetcode.endpoint": "leetcode-cn",
     "leetcode.workspaceFolder": "/Users/mahongqi/.leetcode",
     "leetcode.defaultLanguage": "python3",
