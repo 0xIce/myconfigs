@@ -117,3 +117,4 @@ generateCharlesLicense(){
 }
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+export PATH=$PATH:/Users/mahongqi/.bitcode-env/current/bctool
